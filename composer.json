@@ -1,0 +1,15 @@
+{
+  "name": "novotempo/rateable",
+  "description": "Rating manager package for Laravel",
+  "keywords": ["rateable", "webeleven", "laravel plugin"],
+  "authors": [],
+  "require": {
+    "php": ">=5.5.9",
+    "illuminate/support": "5.1.*|5.2.*|5.3.*"
+  },
+  "autoload": {
+    "psr-4": {
+      "Webeleven\\Rateable\\": "src/"
+    }
+  }
+}
